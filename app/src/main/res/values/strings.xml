@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator Compose</string>
+    <string name="more_than_12_digits_error">Can\'t enter more than 12 digits</string>
+</resources>
